@@ -4,7 +4,8 @@
 	"version": "1.0.0",
 	"description": "Foolish Cilent for Luogu",
 	"license": "AGPLv3",
-	"repository": "quank123wipLuogu-Client",
+  "repository": "quank123wip/Luogu-Client",
+  "homepage": "https://github.com/quank123wip/Luogu-Client",
 	"author": {
 		"name": "Quank123Wip",
 		"email": "Quank123Wip@outlook.com"
