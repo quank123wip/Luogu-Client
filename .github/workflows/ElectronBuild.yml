@@ -37,5 +37,5 @@ jobs:
         # GitHub authentication token
         github_token: ${{ secrets.github_token }}
         # Whether the app should be released after a successful build
-        release: ${{ startsWith(github.ref, 'refs/tags/v') }}
+        release: true
         # Base64-encoded code signing certificate for Windows
