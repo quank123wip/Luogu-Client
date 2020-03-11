@@ -1,7 +1,7 @@
 {
 	"name": "luogu-client",
 	"productName": "Luogu Cilent",
-	"version": "1.0.2",
+	"version": "1.0.0",
 	"description": "Foolish Cilent for Luogu",
 	"license": "AGPLv3",
   "repository": "quank123wip/Luogu-Client",
